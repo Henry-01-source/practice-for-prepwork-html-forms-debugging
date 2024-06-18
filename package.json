@@ -6,9 +6,8 @@
     "scripts": {
         "test": "cypress run --spec 'cypress/integration/test.spec.js'"
     },
-    "dependencies": {},
     "devDependencies": {
-      "cypress": "^8.3.0"
+        "cypress": "^13.11.0"
     },
     "author": "curriculum@appacademy.io",
     "license": "ISC"
